@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TwitchTV Boardcast
+Version=0.2
+Comment=TwitchTV is a video game broadcasting and chat community.  
+Exec=xterm -e "/home/YOUR_USERNAME_HERE/twitchtav_app/twitchtv.sh"
+Type=Application
+Icon=/home/memorixpilgrim/twitchtav_app/twitch-logo.png
+Categories=Application;Media;GNOME;
+GenericName=Boardcasting Application
